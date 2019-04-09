@@ -1,0 +1,1 @@
+Test.assertSimilar(removeExclamationMarks("Hello World!"), "Hello World");
