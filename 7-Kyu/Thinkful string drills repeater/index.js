@@ -5,7 +5,6 @@ Example:
 Repeater.repeat("a", 5)
 
 should return
-
 "aaaaa"
 */
 
