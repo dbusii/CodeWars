@@ -10,7 +10,6 @@ return [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 function monkeyCount(n) {
 const arr = [];
-
   for (let i = 0; i<n;i++){
     if ( i <= n) {
     arr.push(i+1)
