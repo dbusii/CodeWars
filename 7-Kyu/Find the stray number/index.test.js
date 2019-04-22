@@ -1,0 +1,1 @@
+Test.assertSimilar(stray([1, 1, 2]), 2);
