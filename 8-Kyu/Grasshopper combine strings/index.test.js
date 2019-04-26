@@ -1,0 +1,1 @@
+Test.assertEquals(combineNames('James', 'Stevens'), 'James Stevens')
