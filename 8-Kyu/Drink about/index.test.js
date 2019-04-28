@@ -1,0 +1,1 @@
+Test.assertEquals(peopleWithAgeDrink(22), 'drink whisky');

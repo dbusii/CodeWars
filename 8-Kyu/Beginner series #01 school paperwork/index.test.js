@@ -1,0 +1,1 @@
+Test.assertEquals(paperwork(5,5), 25, 'Failed at paperwork(5, 5)');
