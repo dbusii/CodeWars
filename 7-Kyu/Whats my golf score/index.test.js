@@ -1,0 +1,1 @@
+Test.assertEquals(golfScoreCalculator('443454444344544443', '353445334534445344'), -1);
