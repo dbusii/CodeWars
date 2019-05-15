@@ -1,0 +1,1 @@
+Test.assertEquals(bmi(80, 1.80), "Normal");
