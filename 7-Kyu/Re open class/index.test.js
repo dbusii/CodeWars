@@ -1,0 +1,1 @@
+Test.assertEquals("abc".myNewMethod(), "ABC", '"abc".myNewMethod() should return "ABC"');
